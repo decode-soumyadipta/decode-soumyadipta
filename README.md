@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=decode-soumyadipta&color=blueviolet)
 
 ## 🚀 About Me
-I am a **Full Stack Python Developer** with a passion for research and projects in **Artificial Intelligence** and **Machine Learning**. I love building innovative solutions and constantly learning new technologies.
+I'm a passionate **Python developer** with a deep interest in **AI, ML,** and **MedTech**. My journey in coding is driven by the challenge of transforming **innovative ideas into real-world solutions**, particularly in the fields of medical imaging and prosthetic design.
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
