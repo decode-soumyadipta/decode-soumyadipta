@@ -10,6 +10,7 @@ I'm a passionate **Python developer** with a deep interest in **AI, ML,** and **
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=decode-soumyadipta&show_icons=true&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=decode-soumyadipta&theme=default_repocard&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=decode-soumyadipta&layout=compact&theme=radical)
 
 ## 🏆 Achievements
