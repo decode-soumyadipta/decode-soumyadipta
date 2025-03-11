@@ -18,6 +18,9 @@ I am a **Full Stack Python Developer** with a passion for research and projects 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
+![OpenVINO](https://img.shields.io/badge/OpenVINO-008CC1?style=for-the-badge&logo=intel&logoColor=white)  
+![MedTech](https://img.shields.io/badge/MedTech-FF5733?style=for-the-badge&logo=medical-icon&logoColor=white)  
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=decode-soumyadipta&show_icons=true&theme=radical)
